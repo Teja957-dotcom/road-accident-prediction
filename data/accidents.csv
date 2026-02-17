@@ -1,0 +1,11 @@
+weather,time_of_day,road_type,speed_limit,lighting,traffic,severity
+Clear,Day,Highway,80,Good,High,Serious
+Rain,Night,City,40,Poor,Medium,Fatal
+Fog,Morning,Highway,60,Poor,Low,Serious
+Clear,Night,City,50,Good,High,Minor
+Rain,Evening,Highway,100,Poor,High,Fatal
+Clear,Day,Rural,60,Good,Low,Minor
+Rain,Night,Rural,40,Poor,Medium,Serious
+Fog,Night,City,50,Poor,High,Serious
+Clear,Evening,Highway,80,Good,Medium,Minor
+Rain,Day,City,40,Good,High,Serious
